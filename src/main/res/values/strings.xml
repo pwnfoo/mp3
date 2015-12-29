@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Play Audio</string>
+    <string name="Stopbtn">STOP</string>
+
+
+</resources>
